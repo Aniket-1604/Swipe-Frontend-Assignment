@@ -1,4 +1,4 @@
-# Swipe-Frontend-Assignment / Bulk Edit for Redux Invoice Management Syste
+# Swipe-Frontend-Assignment / Bulk Edit for Redux Invoice Management System
 
 Enhanced a simple invoice management system by adding a bulk edit feature. This feature will allow users to edit multiple invoices on a single screen, similar to an Excel spreadsheet.
 
