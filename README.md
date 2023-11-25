@@ -28,3 +28,5 @@ npm start
   - State updates are handled efficiently to ensure a smooth user experience.
  
 ## Hosted On
+
+https://swipe-assignment-aniket.netlify.app/
